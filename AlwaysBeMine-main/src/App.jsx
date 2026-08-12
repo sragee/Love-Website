@@ -402,7 +402,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Nishan
+      {" "}by Suprim
     </a>
   );
 };
